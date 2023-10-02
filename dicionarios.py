@@ -17,7 +17,7 @@ dictionary = {"Bairros": ["Barra da Tijuca", "Ipanema", "Gavea", "Leblon"],
 
 # Adicionando valores:
 dictionary["Bairros"].append("Botafogo")
-# print(dictionary["Bairros"])
+print(dictionary["Bairros"])
 
 # Adicionando chaves:
 dictionary["Estados"] = ["RJ", "SP", "MG"]
